@@ -4,3 +4,35 @@
 .nav-spacing {
   margin: 0 0 0 10px;
 }
+
+.image-link {
+text-decoration: none;
+}
+
+.standard-blockquote {
+  padding: 2px 20px; background: #aeb0b2;
+}
+
+.report-header {
+  text-align: center; margin: 0 0 80px;
+}
+
+.whale-image {
+  display: block; margin: 0 auto;
+}
+
+.book-image {
+  float: left; margin: 0 40px 0 0;
+}
+
+.report-body {
+  width: 500px; margin:  20px auto; padding: 30px; background-color: #fafafa;
+}
+
+.block-quote-emphasis {
+  font-style: italic; font-size: 20px;
+}
+
+.intro-emphasis {
+  font-style: normal; font-size: 24px; font-weight: bold; color: #ff0000;
+}
